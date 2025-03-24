@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React App from very basic to ignite our app by chandan",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan-16/react-prac.git"
+  },
+  "keywords": [],
+  "author": "Chandan Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan-16/react-prac/issues"
+  },
+  "homepage": "https://github.com/chandan-16/react-prac#readme",
+  "devDependencies": {
+    "parcel": "^2.14.2"
+  }
+}
